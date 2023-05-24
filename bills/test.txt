@@ -1,0 +1,5 @@
+this is your bill 
+name1:                    ...$10 
+name2:                    ...$20 
+tip :                     ...$0 
+total :                   ...$30.00

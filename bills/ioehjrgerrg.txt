@@ -1,0 +1,5 @@
+this is your bill 
+5345:                     ...$34534 
+hgrth:                    ...$56 
+tip :                     ...$456 
+total :                   ...$35046.00
